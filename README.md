@@ -2,7 +2,7 @@
 
 Lancei mão da ferramenta de automação de testes Robot Framework em cenário BDD com
 Gherkin para focar no comportamento que cada uma das funcionalidades devem ter. Lembrando que 
-ao adotarmos o costume de escrever os cenários antes de iniciar a codificação dos testes, fica fácil
+ao adotarmos o costume de escrever os cenários antes de iniciar a codificação dos testes fica fácil
 entender o que o Software deve fazer.
 
 O meu projeto tem a seguinte distribuição de pacotes e classes:
